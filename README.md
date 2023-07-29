@@ -1,11 +1,4 @@
 
 # Railway-Station-Networking
 
-This project was done as a part of the academic course 19CSE301 - Computer Networks
-
-Contributors:<br>
-
-<ul>
-<li>Kaarthik R</li>
-<li>Rithuh Subhakkrith S</li>
-</ul>
+This repository contains a .pkt file created using Cisco Packet Tracer. There exists a network of devices that consitutute the modern railway network. From ticket booking to train status checking, there is a lot of digitalisation in modern railways. This packet tracer file contains a sample of 3 Local Area Networks where tickets can be booked physically. All these three LANs are connected to a Server room present in the same railway station. From an ISP's perspective, there is only one LAN. But through the concept of Virtual LAN, there are multiple LANs to serve the purpose. These VLANs have subnets and subnet masks. Inter communication between VLANs is also supported in this model. To support checking the train status from anywhere inside the railway station network, there is a Wireless Router providing the internet. Any device that connects to this Wifi is provided a Dynamic IP by the DHCP server. 
